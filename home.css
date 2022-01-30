@@ -1,0 +1,41 @@
+header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(248, 246, 241) ;
+}
+.logo-img {
+    width: 100px;
+}
+a {
+    text-decoration: none;
+    margin: 0px 20px;
+    font-family: fantasy;
+}
+.info {
+    margin: 0px 40px;
+}
+.info-pic {
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: -webkit-pictograph;
+    color: rgb(54, 30, 54);
+}
+p {
+    font-size: 20px;
+    text-align: center;
+    font-family: -webkit-pictograph;
+    margin-top: 70px;
+}
+footer {
+    display: flex;
+    align-items: center;
+    background-color: rgb(248, 246, 241);
+    height: 100px;
+}
